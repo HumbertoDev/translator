@@ -1,0 +1,10 @@
+h1{
+    background: linear-gradient(red, black);
+    -webkit-background-clip:text;
+    color:transparent;
+}
+
+body{
+    background-color: tomato;
+    
+}
